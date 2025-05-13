@@ -4,7 +4,7 @@ This project applies quantitative finance techniques to analyze, evaluate, and o
 
 ---
 
-## 📌 Project Objectives
+## Project Objectives
 
 * Analyze monthly stock returns using financial models
 * Estimate alpha, beta, and assess statistical significance
@@ -15,7 +15,7 @@ This project applies quantitative finance techniques to analyze, evaluate, and o
 
 ---
 
-## 📊 Datasets & Tools
+## Datasets & Tools
 
 * **Data Source**: Yahoo Finance (via `yfinance` API)
 * **Time Period**: Last 5 years (monthly data)
@@ -27,7 +27,7 @@ This project applies quantitative finance techniques to analyze, evaluate, and o
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 ### 1. Data Collection & Preprocessing
 
@@ -76,7 +76,7 @@ This project applies quantitative finance techniques to analyze, evaluate, and o
 
 ---
 
-## ✅ Key Insights
+## Key Insights
 
 * NVDA showed statistically significant alpha under CAPM
 * Most stocks' alphas were not significant, supporting market efficiency
@@ -86,7 +86,7 @@ This project applies quantitative finance techniques to analyze, evaluate, and o
 
 ---
 
-## 📌 Requirements
+## Requirements
 
 * Python 3.8+
 * pandas
